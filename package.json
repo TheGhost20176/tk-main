@@ -16,7 +16,7 @@
     "google-search-results-nodejs": "^0.0.1",
     "googleapis": "^32.0.0",
     "jimp": "^0.3.5",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "opusscript": "^0.0.6",
     "overwatch-js": "^1.8.0",
     "request": "^2.88.0",
